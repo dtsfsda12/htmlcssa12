@@ -157,13 +157,13 @@ body {
 }
 
 .carousel .prev-slide {
-  background: url(/image/nav-icon.png) no-repeat scroll 0 0;
+  background: url(htmlcssa12/image/nav-icon.png) no-repeat scroll 0 0;
   left: -33px;
   margin-top: 8%;
 }
 
 .carousel .next-slide {
-  background: url(/image/nav-icon.png) no-repeat scroll -24px 0px;
+  background: url(htmlcssa12/image/nav-icon.png) no-repeat scroll -24px 0px;
   right: -33px;
   margin-top: 8%;
 }
